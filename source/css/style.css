@@ -1,0 +1,20 @@
+.menu-large {
+	position: static !important;
+}
+.megamenu {
+	padding: 20px 0px;
+	width: 700px;
+}
+.dropdown-menu {
+	left: auto;
+}
+.navbar-default {
+	background-color: #FD6A81;
+	border-color: #F75A78;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #FFFEFE;
+}
+.carousel-control.left , .carousel-control.right{
+	background: transparent;
+}
